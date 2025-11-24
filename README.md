@@ -114,7 +114,7 @@ For comparison, a **baseline network** with the same EfficientNet backbone but *
 
 ## Datasets
 
-<img width="974" height="292" alt="image" src="https://github.com/user-attachments/assets/47c4376a-3938-4f1e-96d2-41d9c94c44e5" />
+<img width="474" height="192" alt="image" src="https://github.com/user-attachments/assets/47c4376a-3938-4f1e-96d2-41d9c94c44e5" />
 
 Training and evaluation are based on a **public Kaggle dataset** of chest CT images containing several types of lung cancer and healthy cases:
 
