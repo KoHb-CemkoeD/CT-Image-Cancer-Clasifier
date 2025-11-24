@@ -144,10 +144,10 @@ The experimental study compares two models:
 Both models are trained on the same training split and evaluated on held-out data. The main performance indicators are **classification accuracy** and detection capability for cancer cases:
 
 - The **attention-based network** is able to detect roughly **90% of lung cancer cases** in the test data.
-<img width="463" height="348" alt="image" src="https://github.com/user-attachments/assets/d5faf856-f99d-4749-937e-88e07023eb6b" /> 
+<img width="263" height="148" alt="image" src="https://github.com/user-attachments/assets/d5faf856-f99d-4749-937e-88e07023eb6b" /> 
 
 - The **baseline network without attention** achieves only about **30–40%** detection.
-<img width="455" height="348" alt="image" src="https://github.com/user-attachments/assets/423d6c40-7a64-47c3-ae56-41cfac981016" />
+<img width="255" height="148" alt="image" src="https://github.com/user-attachments/assets/423d6c40-7a64-47c3-ae56-41cfac981016" />
 
 At the same time:
 
