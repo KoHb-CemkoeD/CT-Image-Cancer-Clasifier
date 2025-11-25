@@ -1,0 +1,6 @@
+<classlist type="Cancer">
+  <class index="0" name="adenocarcinoma" description="adenocarcinoma"/>	
+  <class index="1" name="large.cell.carcinoma" description="carcinoma"/>	
+  <class index="2" name="normal" description="normal"/>	
+  <class index="3" name="squamous.cell.carcinoma" description="carcinoma"/>	
+</classlist>
