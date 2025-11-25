@@ -5,6 +5,17 @@ This repository contains the implementation of a project on **attention mechanis
 
 ---
 
+## Table of Contents
+- [Research Summary](#-research-summary)
+- [Project Goals](#-project-goals)
+- [Features](#-features)
+- [Implementation](#implementation)
+- [Model Architecture](#model-architecture)
+- [Datasets](#datasets)
+- [Experiments & Results](#experiments--results)
+
+---
+
 ## 🔍 Research summary
 
 This project explores how attention mechanisms in deep learning can improve the classification of lung CT images for early cancer detection. We implement and compare two convolutional neural network architectures:
@@ -19,17 +30,6 @@ The models predict four classes: **three lung cancer types** (e.g. adenocarcinom
 - a **Qt-based GUI application** for Windows allowing a user to load a CT image and obtain an automatic prediction (presence and type of cancer).   
 
 Experimental comparison shows that the attention-enhanced network can detect about **90% of cancer cases**, whereas the baseline without attention achieves only **30–40%**, at the cost of roughly **33.24% more computational complexity**. 
-
----
-
-## Table of Contents
-
-- [Project Goals](#-project-goals)
-- [Features](#-features)
-- [Implementation](#implementation)
-- [Model Architecture](#model-architecture)
-- [Datasets](#datasets)
-- [Experiments & Results](#experiments--results)
 
 ---
 
