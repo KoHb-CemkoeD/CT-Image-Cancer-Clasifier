@@ -22,6 +22,17 @@ Experimental comparison shows that the attention-enhanced network can detect abo
 
 ---
 
+## Table of Contents
+
+- [Project Goals](#-project-goals)
+- [Features](#-features)
+- [Implementation](#implementation)
+- [Model Architecture](#model-architecture)
+- [Datasets](#datasets)
+- [Experiments & Results](#experiments--results)
+
+---
+
 ## 🎯 Project goals
 
 1. **Study and systematize** attention mechanisms in deep learning in the context of image recognition tasks.
