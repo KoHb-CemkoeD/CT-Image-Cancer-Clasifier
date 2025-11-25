@@ -1,7 +1,7 @@
 # CT-Image-Cancer-Clasifier
 ## Attention-based Deep Learning for Lung CT Cancer Classification
 
-This repository contains the implementation of a qualification thesis project on **attention mechanisms in deep learning** for **automatic classification of lung CT images** into cancer / non-cancer classes. The project compares two convolutional neural network architectures — a baseline CNN and an attention-enhanced model — and provides a **graphical Qt application** for end users.   
+This repository contains the implementation of a project on **attention mechanisms in deep learning** for **automatic classification of lung CT images** into cancer / non-cancer classes. The project compares two convolutional neural network architectures — a baseline CNN and an attention-enhanced model — and provides a **graphical Qt application** for end users using **Windows GUI**.   
 
 ---
 
