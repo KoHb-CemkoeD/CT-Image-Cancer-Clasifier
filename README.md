@@ -50,7 +50,7 @@ Experimental comparison shows that the attention-enhanced network can detect abo
   - run classification,
   - show predicted class and confidence, optionally with marked regions.
 
-<img width="275" height="344" alt="image" src="https://github.com/user-attachments/assets/a47f7a00-1a8e-4273-8819-0a11ba35b256" />
+<img width="375" height="444" alt="image" src="https://github.com/user-attachments/assets/a47f7a00-1a8e-4273-8819-0a11ba35b256" />
     
 - Clear separation between:
   - research code (models, experiments),
