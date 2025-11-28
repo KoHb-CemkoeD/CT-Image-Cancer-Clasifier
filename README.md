@@ -177,4 +177,6 @@ At the same time:
 - the number of trainable parameters and computational complexity increase by about **33.24%** when adding the attention mechanism,
 - while classification accuracy improves by approximately **50–60%**, which is considered a highly beneficial trade-off for medical image analysis tasks.
 
+<img width="330" height="127" alt="image" src="https://github.com/user-attachments/assets/56b936eb-416d-4c52-a1ef-d9c175c8dc65" />
+
 The results confirm that focusing the network on the most informative regions of CT scans via attention substantially improves the ability to detect lung cancer, with only a moderate increase in model complexity. 
