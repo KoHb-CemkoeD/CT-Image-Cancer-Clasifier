@@ -77,7 +77,7 @@ Experimental comparison shows that the attention-enhanced network can detect abo
 - **Python:** 3.11  
 - **Framework:** PyTorch (CUDA-enabled to accelerate tensor operations, convolutional layers, and backpropagation)  
 - **Hardware:** GPU-accelerated environment (NVIDIA CUDA by RTX 3060Ti)  
-- **Libraries:** NumPy, Pandas, TensorFlow/Keras, Scikit-learn, Matplotlib
+- **Libraries:** NumPy, TensorFlow/Keras, Scikit-learn, Matplotlib
 - **Platform:** Windows 10
 
 ---
