@@ -9,6 +9,8 @@ This repository contains the implementation of a project on **attention mechanis
 - [Research Summary](#-research-summary)
 - [Project Goals](#-project-goals)
 - [Features](#-features)
+- [Environment](#-environment)
+- [Features](#-features)
 - [Implementation](#implementation)
 - [Model Architecture](#model-architecture)
 - [Datasets](#datasets)
@@ -67,6 +69,16 @@ Experimental comparison shows that the attention-enhanced network can detect abo
   - research code (models, experiments),
   - application code (GUI),
   - documentation.
+
+---
+
+## 🧩 Environment
+
+- **Python:** 3.11  
+- **Framework:** PyTorch (CUDA-enabled to accelerate tensor operations, convolutional layers, and backpropagation)  
+- **Hardware:** GPU-accelerated environment (NVIDIA CUDA by RTX 3060Ti)  
+- **Libraries:** NumPy, Pandas, TensorFlow/Keras, Scikit-learn, Matplotlib
+- **Platform:** Windows 10
 
 ---
 
